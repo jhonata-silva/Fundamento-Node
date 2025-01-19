@@ -1,0 +1,8 @@
+### GET /users
+GET http://localhost:3333/users
+
+### POST /users
+POST http://localhost:3333/users
+
+### DELETE /users
+DELETE  http://localhost:3333/users
